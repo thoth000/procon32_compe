@@ -1,8 +1,8 @@
-# This is an image recovery program.
+# Image Recovery Program
 ![intro](https://user-images.githubusercontent.com/51738889/138543758-820955ca-10c2-4d58-b016-9c3b9a4c85a8.png)
 
 
-# How to use?
+# How to use
 1. Download image in question
 
   `$ python procon32.py download --token=TOKEN`
